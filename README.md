@@ -1,4 +1,4 @@
-# EX 8 Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn
+0# EX 8 Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn
 
 ## AIM:
 To write a program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
@@ -72,7 +72,8 @@ DATA :
 
 ACCURACY :
 
-<img width="1027" height="79" alt="image" src="https://github.com/user-attachments/assets/933cfa38-790f-4b07-9d5d-33a03538c470" />
+<img width="585" height="188" alt="image" src="https://github.com/user-attachments/assets/98e361ea-b685-46e6-9fa9-6c1a97aee732" />
+
 
 PREDICT :
 
