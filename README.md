@@ -66,7 +66,8 @@ accuracy
 
 DATA :
 
-<img width="571" height="193" alt="image" src="https://github.com/user-attachments/assets/aa2926c2-7573-4ac8-ac28-6bbe5c318120" />
+<img width="1022" height="315" alt="image" src="https://github.com/user-attachments/assets/ba3bf1d7-5e3b-48b8-a779-aa07db0587ec" />
+
 
 ACCURACY :
 
