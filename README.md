@@ -65,10 +65,13 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ```
 
 ## Output:
+
 DATA :
+
 <img width="571" height="193" alt="image" src="https://github.com/user-attachments/assets/aa2926c2-7573-4ac8-ac28-6bbe5c318120" />
 
 ACCURACY :
+
 <img width="1027" height="79" alt="image" src="https://github.com/user-attachments/assets/933cfa38-790f-4b07-9d5d-33a03538c470" />
 
 PREDICT :
